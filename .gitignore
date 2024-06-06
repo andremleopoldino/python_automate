@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+chrome-linux64
 
 # Spyder project settings
 .spyderproject
