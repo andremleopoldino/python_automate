@@ -1,7 +1,9 @@
-Estudo de automações em python.
+Estudo em automações python.
 
-Assunto de meu interesse próprio, quero abrir meu leque para além do Web.
+É um assunto de meu interesse, pois estou buscando novos desafios fora do desenvolvimento web, ramo em que trabalho atualmente.
 
-Roteiro : 
+Cronograma de Estudos : 
 
-1 - Selenium - IN PROGRESS
+Selenium - DONE
+
+Consumo de APIs para automações (próximo passo será utilizar QT ou alguma lib de GUI).
