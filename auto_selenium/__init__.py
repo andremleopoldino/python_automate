@@ -1,1 +1,2 @@
 from setup import get_driver
+from extract_text import get_temperature_value

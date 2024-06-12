@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 
-def get_driver():
+def get_driver(url):
     ## Setup chrome options
     chrome_options = Options()
     chrome_options.add_argument("--headless") # Ensure GUI is off
@@ -27,5 +27,6 @@ def get_driver():
     driver = webdriver.Chrome(service=webdriver_service, options=chrome_options)
 
     # Get page
-    driver.get("https://automated.pythonanywhere.com/")
+    driver.get(url)
     return driver
+
